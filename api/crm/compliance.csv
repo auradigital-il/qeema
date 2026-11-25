@@ -1,28 +1,44 @@
 ﻿lead_id,name,country,stage,listing,deal_value,passport,address,funds,pep,sanctions,risk,risk_reason,approved_at,report_needed,report_ref,status,updated_at
-74,Sergey Morozov,RU,offer,Lakeview One,,1,1,1,0,1,high,Politically exposed person (PEP) match,,1,,docs,2026-11-15 00:08:18
-76,Sanjay Nair,IN,offer,Harbour Lumen,,1,1,0,1,1,high,Payment from a third-party account,,1,,docs,2026-11-14 09:51:40
-82,Marina Morozova,RU,offer,Arjan Bloom,,1,1,1,1,0,standard,,,1,,docs,2026-11-19 04:00:45
-75,Artem Popov,KZ,offer,Hartland Reserve,,1,1,0,1,1,standard,,,0,,docs,2026-11-18 00:58:06
-78,Léa Laurent,BE,offer,Marea Residences,,1,0,1,1,1,standard,,,0,,docs,2026-11-13 18:20:20
-81,Léa Petit,BE,offer,Alba Boulevard,,1,1,1,1,0,standard,,,0,,docs,2026-11-13 10:27:33
-80,Omar Al Ali,EG,offer,Fairway Lofts,,1,1,0,1,1,standard,,,0,,docs,2026-11-13 09:53:47
-90,Noa Shapiro,IL,won,Nova Gardens,1100000,1,1,0,0,1,standard,,,0,,docs,2026-11-10 17:10:58
-95,Charlotte Grant,CA,won,Marea Residences,2213000,1,1,0,1,1,standard,,,0,,docs,2026-11-10 12:52:53
-85,Pavel Kuznetsov,RU,won,Hartland Reserve,3242000,1,1,0,0,1,standard,,,0,,docs,2026-11-01 06:23:25
-83,Marina Lebedeva,KZ,offer,Marea Residences,,1,1,1,1,1,high,Politically exposed person (PEP) match,,1,,approve,2026-11-14 05:39:23
-73,Shira Golan,IL,offer,Nova Gardens,,1,1,1,1,1,standard,,,1,,approve,2026-11-20 12:20:07
-79,Vikram Reddy,IN,offer,Lakeview One,,1,1,1,1,1,standard,,,1,,approve,2026-11-18 03:28:44
-77,Noa Azulay,IL,offer,Marea Residences,,1,1,1,1,1,standard,,,0,,approve,2026-11-17 12:31:45
-92,Wang Na,SG,won,Canal Crest,1014000,1,1,1,1,1,high,Politically exposed person (PEP) match,2026-11-15 11:54:40,1,GOAML-743898,ok,2026-11-15 11:54:40
-87,Tamar Golan,IL,won,Hartland Reserve,2635000,1,1,1,1,1,high,Payment from a third-party account,2026-11-02 10:53:00,1,GOAML-729908,ok,2026-11-02 10:53:00
-98,Ivan Smirnov,RU,won,Nova Gardens,854000,1,1,1,1,1,high,Payment from a third-party account,2026-10-25 23:48:14,1,GOAML-427000,ok,2026-10-25 23:48:14
-97,Ekaterina Lebedeva,RU,won,Isla Palm,3599000,1,1,1,1,1,standard,,2026-11-22 16:09:14,1,GOAML-588625,ok,2026-11-22 16:09:14
-89,Jessica Moore,US,won,Fairway Lofts,801000,1,1,1,1,1,standard,,2026-11-20 03:48:06,0,,ok,2026-11-20 03:48:06
-84,Avi Cohen,IL,won,Arjan Bloom,1195000,1,1,1,1,1,standard,,2026-11-18 21:45:09,0,,ok,2026-11-18 21:45:09
-99,Mariam Al Ali,EG,won,Alba Boulevard,2336000,1,1,1,1,1,standard,,2026-11-18 13:48:09,0,,ok,2026-11-18 13:48:09
-93,Sanjay Mehta,IN,won,Hartland Reserve,3472000,1,1,1,1,1,standard,,2026-11-17 13:49:53,0,,ok,2026-11-17 13:49:53
-88,Svetlana Popova,RU,won,Hartland Reserve,3186000,1,1,1,1,1,standard,,2026-11-17 08:01:28,1,GOAML-100244,ok,2026-11-17 08:01:28
-94,Charlotte Whitmore,US,won,Valley Townhouses,6123000,1,1,1,1,1,standard,,2026-11-14 11:34:43,1,GOAML-464264,ok,2026-11-14 11:34:43
-86,David Foster,GB,won,Alba Boulevard,3106000,1,1,1,1,1,standard,,2026-11-11 18:06:30,0,,ok,2026-11-11 18:06:30
-91,Pooja Kapoor,IN,won,Alba Boulevard,2765000,1,1,1,1,1,standard,,2026-11-04 07:11:14,1,GOAML-173731,ok,2026-11-04 07:11:14
-96,Avi Friedman,IL,won,Verde Hills Park,2814000,1,1,1,1,1,standard,,2026-11-01 23:33:51,0,,ok,2026-11-01 23:33:51
+74,Sergey Morozov,RU,offer,Lakeview One,,1,1,1,0,1,high,Politically exposed person (PEP) match,,1,,docs,2026-11-15 14:23:51
+76,Sanjay Nair,IN,offer,Harbour Lumen,,1,1,0,1,1,high,Payment from a third-party account,,1,,docs,2026-11-15 00:07:13
+82,Marina Morozova,RU,offer,Arjan Bloom,,1,1,1,1,0,standard,,,1,,docs,2026-11-19 18:16:18
+75,Artem Popov,KZ,offer,Hartland Reserve,,1,1,0,1,1,standard,,,0,,docs,2026-11-18 15:13:39
+78,Léa Laurent,BE,offer,Marea Residences,,1,0,1,1,1,standard,,,0,,docs,2026-11-14 08:35:53
+81,Léa Petit,BE,offer,Alba Boulevard,,1,1,1,1,0,standard,,,0,,docs,2026-11-14 00:43:06
+80,Omar Al Ali,EG,offer,Fairway Lofts,,1,1,0,1,1,standard,,,0,,docs,2026-11-14 00:09:20
+90,Noa Shapiro,IL,won,Nova Gardens,1100000,1,1,0,0,1,standard,,,0,,docs,2026-11-11 07:26:31
+95,Charlotte Grant,CA,won,Marea Residences,2213000,1,1,0,1,1,standard,,,0,,docs,2026-11-11 03:08:26
+85,Pavel Kuznetsov,RU,won,Hartland Reserve,3242000,1,1,0,0,1,standard,,,0,,docs,2026-11-01 20:38:58
+83,Marina Lebedeva,KZ,offer,Marea Residences,,1,1,1,1,1,high,Politically exposed person (PEP) match,,1,,approve,2026-11-14 19:54:56
+73,Shira Golan,IL,offer,Nova Gardens,,1,1,1,1,1,standard,,,1,,approve,2026-11-21 02:35:40
+79,Vikram Reddy,IN,offer,Lakeview One,,1,1,1,1,1,standard,,,1,,approve,2026-11-18 17:44:17
+77,Noa Azulay,IL,offer,Marea Residences,,1,1,1,1,1,standard,,,0,,approve,2026-11-18 02:47:18
+92,Wang Na,SG,won,Canal Crest,1014000,1,1,1,1,1,high,Politically exposed person (PEP) match,2026-11-16 02:10:13,1,GOAML-743898,ok,2026-11-16 02:10:13
+87,Tamar Golan,IL,won,Hartland Reserve,2635000,1,1,1,1,1,high,Payment from a third-party account,2026-11-03 01:08:33,1,GOAML-729908,ok,2026-11-03 01:08:33
+98,Ivan Smirnov,RU,won,Nova Gardens,854000,1,1,1,1,1,high,Payment from a third-party account,2026-10-26 14:03:47,1,GOAML-427000,ok,2026-10-26 14:03:47
+97,Ekaterina Lebedeva,RU,won,Isla Palm,3599000,1,1,1,1,1,standard,,2026-11-23 06:24:47,1,GOAML-588625,ok,2026-11-23 06:24:47
+89,Jessica Moore,US,won,Fairway Lofts,801000,1,1,1,1,1,standard,,2026-11-20 18:03:39,0,,ok,2026-11-20 18:03:39
+84,Avi Cohen,IL,won,Arjan Bloom,1195000,1,1,1,1,1,standard,,2026-11-19 12:00:42,0,,ok,2026-11-19 12:00:42
+99,Mariam Al Ali,EG,won,Alba Boulevard,2336000,1,1,1,1,1,standard,,2026-11-19 04:03:42,0,,ok,2026-11-19 04:03:42
+93,Sanjay Mehta,IN,won,Hartland Reserve,3472000,1,1,1,1,1,standard,,2026-11-18 04:05:26,0,,ok,2026-11-18 04:05:26
+88,Svetlana Popova,RU,won,Hartland Reserve,3186000,1,1,1,1,1,standard,,2026-11-17 22:17:01,1,GOAML-100244,ok,2026-11-17 22:17:01
+94,Charlotte Whitmore,US,won,Valley Townhouses,6123000,1,1,1,1,1,standard,,2026-11-15 01:50:16,1,GOAML-464264,ok,2026-11-15 01:50:16
+86,David Foster,GB,won,Alba Boulevard,3106000,1,1,1,1,1,standard,,2026-11-12 08:22:03,0,,ok,2026-11-12 08:22:03
+91,Pooja Kapoor,IN,won,Alba Boulevard,2765000,1,1,1,1,1,standard,,2026-11-04 21:26:47,1,GOAML-173731,ok,2026-11-04 21:26:47
+96,Avi Friedman,IL,won,Verde Hills Park,2814000,1,1,1,1,1,standard,,2026-11-02 13:49:24,0,,ok,2026-11-02 13:49:24
+145,Sophie Clarke,US,won,Isla Palm,4760000,1,1,1,1,1,standard,,2026-08-30 19:27:07,0,,ok,2026-08-30 19:27:07
+143,Ivan Popov,RU,won,Verde Hills Park,2925000,1,1,1,1,1,standard,,2026-08-24 12:19:15,0,,ok,2026-08-24 12:19:15
+139,Pavel Orlov,KZ,won,Marea Residences,1629000,1,1,1,1,1,standard,,2026-08-23 11:33:37,0,,ok,2026-08-23 11:33:37
+138,Pooja Gupta,AE,won,Alba Boulevard,2689000,1,1,1,1,1,standard,,2026-08-18 04:27:49,0,,ok,2026-08-18 04:27:49
+147,Oliver Collins,US,won,Canal Crest,1212000,1,1,1,1,1,standard,,2026-08-04 12:44:27,0,,ok,2026-08-04 12:44:27
+144,David Collins,CA,won,Valley Townhouses,5974000,1,1,1,1,1,standard,,2026-07-22 14:03:37,0,,ok,2026-07-22 14:03:37
+148,Rahul Gupta,IN,won,Valley Townhouses,5238000,1,1,1,1,1,standard,,2026-07-16 23:25:52,0,,ok,2026-07-16 23:25:52
+146,Jessica Grant,GB,won,Fairway Lofts,699000,1,1,1,1,1,standard,,2026-07-08 08:57:58,0,,ok,2026-07-08 08:57:58
+137,Olivia Hughes,AU,won,Hartland Reserve,2725000,1,1,1,1,1,standard,,2026-06-23 05:06:51,0,,ok,2026-06-23 05:06:51
+150,Ivan Lebedev,KZ,won,Alba Boulevard,3378000,1,1,1,1,1,standard,,2026-06-21 02:23:52,0,,ok,2026-06-21 02:23:52
+141,Arjun Nair,AE,won,Verde Hills Park,3191000,1,1,1,1,1,standard,,2026-06-20 04:53:46,0,,ok,2026-06-20 04:53:46
+140,Camille Petit,FR,won,Hartland Reserve,1872000,1,1,1,1,1,standard,,2026-05-30 04:32:04,0,,ok,2026-05-30 04:32:04
+149,Sophie Reid,IE,won,Valley Townhouses,5852000,1,1,1,1,1,standard,,2026-05-28 00:44:03,0,,ok,2026-05-28 00:44:03
+136,Rana Al Mazrouei,KW,won,Verde Hills Park,3527000,1,1,1,1,1,standard,,2026-05-19 06:55:03,0,,ok,2026-05-19 06:55:03
+135,Nikolai Smirnov,RU,won,Valley Townhouses,5316000,1,1,1,1,1,standard,,2026-05-15 04:03:19,0,,ok,2026-05-15 04:03:19
+142,Ekaterina Popova,RU,won,Verde Hills Park,3548000,1,1,1,1,1,standard,,2026-04-01 05:47:41,0,,ok,2026-04-01 05:47:41
